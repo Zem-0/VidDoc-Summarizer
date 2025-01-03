@@ -14,6 +14,8 @@ VidDoc is a powerful Streamlit application that simplifies the process of summar
 1. **Extract Transcript**: The app first extracts the transcript from a YouTube video using the `YouTubeTranscriptApi`. 
 2. **Summarization**: The extracted transcript is sent to Google Gemini Pro, which summarizes the content into key points and provides a detailed, concise summary.
 3. **Display Summary**: The summary is displayed on the app, offering a quick overview of the video’s content.
+![Alt text](https://github.com/Zem-0/VidDoc-Summarizer/blob/main/Screenshot%202025-01-03%20230143.png)
+![Alt text](https://github.com/Zem-0/VidDoc-Summarizer/blob/main/Screenshot%202025-01-03%20230206.png)
 
 ### PDF Q&A
 1. **Text Extraction**: The app extracts text from uploaded PDF files using `PyPDF2`. Multiple PDFs can be uploaded simultaneously.
