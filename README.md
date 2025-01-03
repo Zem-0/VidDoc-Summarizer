@@ -1,6 +1,6 @@
 # VidDoc Summarizer
 
-SmartNotes is a powerful Streamlit application that simplifies the process of summarizing YouTube videos and PDF documents. It leverages Google Gemini Pro and other cutting-edge technologies to provide you with concise and insightful notes from video transcripts and documents.
+VidDoc is a powerful Streamlit application that simplifies the process of summarizing YouTube videos and PDF documents. It leverages Google Gemini Pro and other cutting-edge technologies to provide you with concise and insightful notes from video transcripts and documents.
 
 ## Key Features
 
